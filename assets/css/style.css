@@ -2387,3 +2387,6 @@ footer {
   color: #fff;
   border: 1px solid #008080;
 }
+.news-img img {
+  width: 100%;
+}
