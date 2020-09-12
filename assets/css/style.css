@@ -85,10 +85,11 @@ body {
   display: inline-block;
   background-color: transparent;
   color: #f4f4f4;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 700;
   text-align: center;
-  border-radius: 3px;
+  border: 1px solid #fff;
+  border-radius: 50px;
   -webkit-transition: 400ms;
   transition: 400ms;
   text-decoration: none;
